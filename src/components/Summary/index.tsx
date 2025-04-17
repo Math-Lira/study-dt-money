@@ -7,7 +7,7 @@ export function Summary() {
       <SummaryCard>
         <header>
           <span>Entradas</span>
-          <ArrowCircleUp size={32} color="#0C64BB  " />
+          <ArrowCircleUp size={32} color="#8DD703  " />
         </header>
         <strong>R$ 10.000,00</strong>
       </SummaryCard>
