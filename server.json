@@ -1,20 +1,36 @@
 {
-    "transactions":  [
-        {
-            "id": 1,
-            "description": "Projeto Web",
-            "type": "income",
-            "category": "Venda",
-            "prise": 1400,
-            "createdAt": "2025-04-22T14:04:44.170Z"
-        },
-        {
-            "id": 2,
-            "description": "Macarrão",
-            "type": "outcome",
-            "category": "Alimentação",
-            "prise": 600,
-            "createdAt": "2025-04-22T18:04:44.170Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Projeto Web",
+      "type": "income",
+      "category": "Venda",
+      "prise": 1400,
+      "createdAt": "2025-04-22T14:04:44.170Z"
+    },
+    {
+      "id": 2,
+      "description": "Macarrão",
+      "type": "outcome",
+      "category": "Alimentação",
+      "prise": 600,
+      "createdAt": "2025-04-22T18:04:44.170Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "prise": 20000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-04-23T13:45:12.013Z",
+      "id": 3
+    },
+    {
+      "description": "banana",
+      "prise": 10,
+      "category": "alimento",
+      "type": "outcome",
+      "createdAt": "2025-04-23T14:35:56.658Z",
+      "id": 4
+    }
+  ]
 }
